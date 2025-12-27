@@ -24,7 +24,7 @@ Distance measurements are performed in **centimetres** on the microcontroller an
 ---
 
 ## Hardware
-- Arduino (e.g. Uno)  
+- Elegoo Uno R3 (Arduino)  
 - HC-SR04 ultrasonic sensor  
 - SG90 micro servo  
 - Active buzzer  
